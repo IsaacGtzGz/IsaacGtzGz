@@ -35,10 +35,3 @@ Me enfoco en construir arquitecturas limpias y resolver problemas operativos med
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ---
-
-### 📊 Mis Estadísticas en GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IsaacGtzGz&show_icons=true&theme=tokyonight" alt="Estadísticas de Isaac" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacGtzGz&layout=compact&theme=tokyonight" alt="Lenguajes Top" width="48%" />
-</div>
