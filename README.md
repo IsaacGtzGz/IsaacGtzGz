@@ -1,4 +1,4 @@
-# ¡Qué onda, soy Isaac! 👋
+# ¡Hola, soy Isaac! 👋
 
 **Desarrollador Full Stack | Ing. en Desarrollo y Gestión de Software**
 
